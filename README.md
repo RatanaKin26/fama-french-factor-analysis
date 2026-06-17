@@ -227,3 +227,7 @@ Ratana Kin
 Mathematical Economics | Data Science
 
 Forecasting Analyst | Quantitative Analysis | Financial Analytics
+
+## Development Notes
+
+This project was developed with the assistance of AI coding tools, including Claude. The project concept, model design, interpretation of results, testing, documentation, and project structure were reviewed and curated by the author.
